@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">edu_1313_Quiz</string>
+    <string name="yas">Да</string>
+    <string name="no">Нет</string>
+    <string name="correct_answer">Правильно!</string>
+    <string name="incorrect_answer">Неправильно!</string>
+    <string name="question1">Арбуз - это ягода?</string>
+    <string name="question2">Солнце - это звезда?</string>
+    <string name="question3">Пермь - это столица РФ?</string>
+    <string name="question4">Луна - это планета?</string>
+    <string name="question5">ТырПыр - это язык?</string>
+    <string name="answerBtn">Посмотреть ответ</string>
+</resources>
